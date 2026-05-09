@@ -19,3 +19,9 @@ HTML / CSS / JavaScript の学習記録です。
 - 自己紹介ページ
 - ナマズ釣りサイト
 - 簡単なWebサイトの練習
+- 
+## 公開ページ
+
+以下のURLからページを確認できます。
+
+ https://xiaojinzelongxiang-debug.github.io/web-practice/ 
